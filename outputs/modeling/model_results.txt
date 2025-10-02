@@ -1,0 +1,23 @@
+Modeling Results
+
+Random Forest:
+              precision    recall  f1-score   support
+
+           0       1.00      0.90      0.95        31
+           1       0.98      1.00      0.99       171
+
+    accuracy                           0.99       202
+   macro avg       0.99      0.95      0.97       202
+weighted avg       0.99      0.99      0.98       202
+ROC-AUC: 1.0
+
+Logistic Regression:
+              precision    recall  f1-score   support
+
+           0       0.90      0.84      0.87        31
+           1       0.97      0.98      0.98       171
+
+    accuracy                           0.96       202
+   macro avg       0.93      0.91      0.92       202
+weighted avg       0.96      0.96      0.96       202
+ROC-AUC: 0.9871722316544047
