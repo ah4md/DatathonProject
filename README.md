@@ -1,9 +1,9 @@
 # 📊 Diabetes Analytics Project Report
 
 ## 👥 Team Members  
-- Ahamed Mulla (Roll no: 46)  — (Preprocessing, Modeling, Dashboard Integration)  
+- Ahamed Mulla (Roll no: 46)  — Preprocessing & Dashboard Integration 
 - Yogesh Mane (Roll no: 47) — Visualization & EDA  
-- Ziyad Kakhandkikar (Roll no: 48)  — Model Evaluation, Report & Presentation  
+- Ziyad Kakhandkikar (Roll no: 48)  — Modeling & Model Evaluation
 
 ---
 
