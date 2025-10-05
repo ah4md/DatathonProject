@@ -3,16 +3,14 @@
 ## Team
 
 - Ahamed Mulla — Data Wrangler / Preprocessing
-- Yogesh Mane — Analyst / Modeling
-- Ziyad Kakhandkikar — Dashboard & Reporting
+- Yogesh Mane — EDA
+- Ziyad Kakhandkikar — Modeling
 
 ## Problem Statement
 
 Predict whether a patient has diabetes (binary classification) using clinical measurements such as AGE, HbA1c, BMI, Cholesterol, TG, HDL, LDL, VLDL.
 
 ## Dataset
-
-Source: (Kaggle link or dataset location)
 File used: diabetes_unclean.csv
 
 ## Tentative Methodology
